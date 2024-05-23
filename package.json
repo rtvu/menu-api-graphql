@@ -1,0 +1,9 @@
+{
+  "name": "menu-api",
+  "version": "0.0.1",
+  "description": "Menu API server using graphql.",
+  "keywords": [],
+  "author": "Ryan Vu",
+  "license": "MIT",
+  "packageManager": "yarn@4.1.1"
+}
